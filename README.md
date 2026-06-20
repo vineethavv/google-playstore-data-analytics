@@ -1,4 +1,4 @@
-# google playstore data analytics
+# Google playstore data analytics
 
 ## Project Overview
 
